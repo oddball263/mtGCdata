@@ -27,7 +27,7 @@ The dataset includes the following files:
 - 'CodeBook.RMD': Details on dataset and cleaning outline.
                   Also in .MD and .html
 
-- 'run_analysis.txt': R code for transforming raw data into tidy dataset.
+- 'run_analysis.R': R code for transforming raw data into tidy dataset.
 
 - 'tidy_groupedData.txt': Tidy dataset.
 
